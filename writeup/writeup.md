@@ -261,7 +261,7 @@ In Java, Strings are **immutable**. This means that you cannot change a String o
 ## Before You Continue: Be Warned!
 1. For this PSA, you are **NOT** allowed to use the built-in **toCharArray()** method provided by the standard Java library. The penalty for doing so is a zero for part 3 of the assignment. You may want to read the [String documentation](https://docs.oracle.com/javase/10/docs/api/java/lang/String.html) to find other useful functions.
 1. You **may not change** the signature (name, return type, parameters) of any method. The signatures must remain unchanged otherwise our testers will fail and assign 0 points.
-1. Your methods should return the **same output** for the same test cases regardless of how many times it is called consecutively. **This means that you should not create any additional static or instance variables.**
+1. Your methods for Parts 3B and 3D should return the **same output** for the same test cases regardless of how many times it is called consecutively. **This means that you should not create any additional static or instance variables.**
 
 ## Part 3A: Efficient Warmup
 ### 1. Warmup
