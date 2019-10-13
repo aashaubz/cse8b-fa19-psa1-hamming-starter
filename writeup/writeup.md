@@ -522,7 +522,7 @@ grep -r "System.out.println" *
 
 ## Part 4: Summary, Style, Submitting
 ### Summary 
-You should at this point have four sections in README.md - the debugging code, style fixes and questions, decode() tester portion, and the StringBuilder vs Strings time comparison. 
+You should at this point have three sections in README.md - the debugging code, style fixes and questions, and the StringBuilder vs Strings time comparison. 
 
 In a fifth section labelled "Summary", answer the following questions. Keep the summaries short but to the point (about 2-4 sentences). Submit README.md to Gradescope.
 1. How did the tests you wrote in the hammingDecode() tester portion affect your work when writing your actual Hamming Code? 
